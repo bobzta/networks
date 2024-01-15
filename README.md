@@ -1,2 +1,2 @@
-# networks
+# Networks
 Friendship Network Modelling
